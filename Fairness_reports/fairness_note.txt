@@ -1,0 +1,2 @@
+This model has been evaluated for bias across three protected attributes: age group, income level, and number of dependents. 
+It was retrained using ExponentiatedGradient with a DemographicParity constraint to ensure fairer loan decisions across Young, Middle, and Senior age groups.
